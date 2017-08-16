@@ -1,0 +1,129 @@
+#header{
+    width: 930px;
+    background-color: white;
+    padding: 20px;
+}
+#title{
+    display: inline;
+    font-size: 20pt;
+    font-weight: bold;
+}
+#subtitle{
+    display: inline;
+    font-size: 15pt;
+    font-weight: bold;
+    margin-left: 450px;
+}
+#content{
+    width: 970px;
+    background-color: rgb(111,89,100);
+}
+#photo{
+    border: 5px solid gray;
+    width: 401px;
+    height: 263px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 23px;
+}
+#about{
+    width: 484px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 25px;
+}
+.sectitle{
+    height: 29px;
+    background-color: rgb(135,133,147);
+    margin-bottom: 0px;
+    color: white;
+    font-size: 16pt;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+#aboutcontent{
+    width: 464px;
+    height: 210px;
+    background-color: rgb(237,230,237);
+    font-size: 12pt;
+    margin-top: 0px;
+    text-align: justify;
+    padding: 10px;
+}
+.section{
+    width: 290px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -10px;
+    margin-left: 23px;
+}
+.secimg{
+    width: 290px;
+    height: 150px;
+}
+.seccontent{
+    width: 272px;
+    height: 142px;
+    background-color: rgb(237,230,237);
+    margin-top: -4px;
+    font-size: 11pt;
+    text-align: justify;
+    padding: 9px;
+}
+.tech{
+    height: 30px;
+    background-color: rgb(135,133,147);
+    margin-top: -15px;
+    color: white;
+    font-size: 14pt;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+.techcontent{
+    width: 280px;
+    height: 152px;
+    background-color: rgb(237,230,237);
+    margin-top: -19px;
+    padding: 5px;
+}
+.techimg{
+    width: 42px;
+    height: 42px;
+    margin: 5px;
+}
+.center{
+    text-align: center;
+}
+.site{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 11pt;
+    background-color: rgb(64,125,97);
+    border: 1pt solid black;
+    border-radius: 10px;
+    padding: 4px;
+    display: inline-block;
+}
+#footer{
+    width: 970px;
+    height: 70px;
+    display: inline-block;
+    background-color: white;
+    text-align: center;
+    font-size: 12pt;
+}
+#contact{
+    margin-top: 10px;
+}
+.socimg{
+    width: 20px;
+    height: 20px;
+}
+.soclink{
+    color: black;
+    font-style: italic;
+}
